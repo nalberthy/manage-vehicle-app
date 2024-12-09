@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+}
+:host {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.overflow-container {
+  width: 100%;
+  max-height: calc(100vh - 40vh);
+  overflow: auto;
+}
+.overflow-vehicle {
+  max-height: 100%;
+  overflow-y: auto;
+}
