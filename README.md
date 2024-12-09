@@ -11,6 +11,11 @@ Rota unica: https://localhost:4200/
 npm install
 ```
 
+### (executar projeto):
+```bash
+npm run start:ssl
+```
+
 Instruções de Configuração e execução do projeto usando docker estão na [api do projeto ](https://github.com/nalberthy/manage-vehicle-api).
 
 
